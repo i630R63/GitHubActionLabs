@@ -1,2 +1,2 @@
 # GitHubActionLabs
-This repo bring me the oportunity to learn Github Actions
+This repo brings me the opportunity to learn Github Actions
